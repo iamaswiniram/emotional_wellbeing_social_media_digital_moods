@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+xgboost
+lightgbm
+catboost
+tensorflow
+jupyter
+pytest
+black
+flake8
+streamlit
+imbalanced-learn
+keras-tuner
+fpdf
