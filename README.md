@@ -1,7 +1,7 @@
 # Digital Moods | Social Media Emotional Well-Being Analysis
 
 **Digital Moods** is an advanced Machine Learning and Deep Learning platform that classifies emotional well-being states from social media usage patterns. Using a Hybrid Fusion architecture combining Ensemble ML and Neural Networks, the system achieves 95%+ accuracy in predicting dominant emotions (Happiness, Anxiety, Sadness, Anger).
-
+ **Streamlit URL:** : https://emotional-wellbeing-social-media-usage-iamaswiniram.streamlit.app/
 ---
 
 ## Features
@@ -289,3 +289,4 @@ This project is developed as part of a capstone project for educational purposes
 - Dataset: Social Media Usage and Emotional Well-Being
 - Frameworks: scikit-learn, TensorFlow, Streamlit
 - Inspiration: Intersection of digital wellness and machine learning
+
